@@ -1,0 +1,2 @@
+# sistemadecontroleescolar
+codigo escolar
